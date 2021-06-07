@@ -33,6 +33,8 @@ $geoip2 = new plugins_geoip2_public();
 // --- Display country ISO
 $geoip2->getIsoCountry();
 ````
+
+#### Pour utiliser la version offline vous devez intégrer les fichiers tel que GeoLite2-Country.mmdb dans le dossier du plugins
 Ressources
  -----
   * https://www.maxmind.com
