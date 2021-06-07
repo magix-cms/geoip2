@@ -1,5 +1,5 @@
 # GeoIP2
-Plugin geopi2 for [magixcms 3](https://www.magix-cms.com)
+Plugin GeoIP2 for [magixcms 3](https://www.magix-cms.com)
 
 ### version 
 
