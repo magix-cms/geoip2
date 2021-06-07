@@ -1,6 +1,8 @@
 # GeoIP2
 Plugin GeoIP2 for [magixcms 3](https://www.magix-cms.com)
 
+![product-icon-geoip2-db](https://user-images.githubusercontent.com/356674/121079969-1dffca00-c7db-11eb-91f4-d5e44fc5cec6.png)
+
 ### version 
 
 [![release](https://img.shields.io/github/release/magix-cms/geoip2.svg)](https://github.com/magix-cms/geoip2/releases/latest)
